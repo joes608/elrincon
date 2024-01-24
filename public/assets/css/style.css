@@ -1,0 +1,20 @@
+header {
+    /* width: 100%;
+    z-index: 2;
+    position: fixed; */
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    color: rgb(135, 222, 139);
+}
+.carrousel{
+    height: 70vh;
+    width: 80vw;
+}
+.shadow {
+    color: violet;
+    text-shadow: 14px 15px rgb(221, 11, 11), ;
+}
+/* header a {
+    color: rgb(21, 255, 0);
+} */
